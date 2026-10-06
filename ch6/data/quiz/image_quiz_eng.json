@@ -1,0 +1,17 @@
+[
+    {
+        "no": 1,
+        "eng": "Which of the following descriptions of the image is incorrect?\n- (1) It shows a bird flying in the sky.\n- (2) The bird's head is brown.\n- (3) The tips of the bird's wings are black.\n- (4) The bird is sitting on the ground.",
+        "img": "B.JPG"
+    },
+    {
+        "no": 2,
+        "eng": "Which of the following descriptions of the image is incorrect?\n- (1) A chipmunk is sitting on a rock.\n- (2) The chipmunk's fur has stripes.\n- (3) The chipmunk is on a tree.\n- (4) The background is blurred.",
+        "img": "D.JPG"
+    },
+    {
+        "no": 3,
+        "eng": "Which of the following descriptions of the image is incorrect?\n- (1) A cat is sitting on the ground.\n- (2) The cat's fur is made up of a single color.\n- (3) The background wall is old and stained.\n- (4) The cat is looking to the left.",
+        "img": "K.JPG"
+    }
+]
